@@ -1,4 +1,4 @@
 # jaxler-ai
-Me trying to clone *\*Identity Redacted\** into my local machine.
+Literally how to impress your <s>homeroom class</s> colleagues.
 
-Also known as: "how to impress your <s>homeroom class</s> colleagues in under 1112312451234243624353423438257384923498334782939043201 years!!"
+Yes, I am actually going to clone one of my <s>schoolmates</s> colleagues into my local machine using artificial intelligence. Except that I don't know how to make AI yet, as I'm a web developer who's a little inexperienced. Maybe gonna go learn `tensorflow` soon
